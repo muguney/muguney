@@ -25,7 +25,7 @@ I'am UI/UX Designer & Front-End developer who cares deeply about user experience
 <img alt="Tailwindcss" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <details>
-<summary>Stats</summary>
+<summary>GitHub Stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muguney&show_icons=true&theme=vue-dark)
 
