@@ -28,6 +28,8 @@ I'am UI/UX Designer & Front-End developer who cares deeply about user experience
 <summary>GitHub Stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muguney&show_icons=true&theme=vue-dark)
+<br/>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuguney&countColor=%232d333b&labelStyle=none)
 
 </details>
 
