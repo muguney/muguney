@@ -1,6 +1,6 @@
 ### Hello, I'm Mustafa. 👋
 I'am UI/UX Designer & Front-End developer who cares deeply about user experience. I have been worked as a full stack developer and designer in many mobile and web projects since 2006. Since 2017, I have focused mostly on product design and front-end development. 
-<br/><br/>:computer:	 I'm currently working at <a href="https://www.trainplanet.com" target="_blank">Trainplanet</a>. 
+<br/><br/>:computer:	 I'm currently working as a freelancer. 
 <br/>:raising_hand_man:	I'm vegan, married, dog dad, enduro rider and RV camp lover.
 
 #
