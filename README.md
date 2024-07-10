@@ -23,14 +23,3 @@ I'am UI/UX Designer & Front-End developer who cares deeply about user experience
 <img alt="NuxtJS" align="left" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 <img alt="Bootstrap" align="left" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img alt="Tailwindcss" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
-<details>
-<summary>GitHub Stats</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muguney&show_icons=true&theme=vue-dark)
-<br/>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuguney&countColor=%232d333b&labelStyle=none)
-
-</details>
-
-
